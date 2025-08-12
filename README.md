@@ -12,3 +12,7 @@ In conclusion, in the near future we hope to use the knowledge that we gained fr
 Screenshots:
 
 ![image alt](https://github.com/ST10449069/ICE2-MysteryNumber/blob/9b1fed1ce8c0b17c9337a7432a19c21e5c1f1e62/Screenshot%202025-08-12%20113639.png)
+
+![image alt](https://github.com/ST10449069/ICE2-MysteryNumber/blob/80669bd8f4857862582e37c5fea4aa1298ef56a9/Screenshot%202025-08-12%20113757.png)
+
+
