@@ -1,5 +1,7 @@
 Members of the grooup:
+
 Joash Magwaza - ST10491930
+
 Koketso Lehlohonolo Noame Ratsoma - St10449069
 
 App Description:
@@ -8,7 +10,5 @@ This app was created to give a random number to the user and the user had to gue
 In conclusion, in the near future we hope to use the knowledge that we gained from this to develop our own application.
 
 Screenshots:
-The image below shows a number entered but it is too high.
-
 
 https://github.com/ST10449069/ICE2-MysteryNumber/blob/9b1fed1ce8c0b17c9337a7432a19c21e5c1f1e62/Screenshot%202025-08-12%20113639.png
